@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RScomponent jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library management Systems required jars/RScomponent jars/RSFoto_v1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library management Systems required jars/RScomponent jars/RSCalendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library management Systems required jars/RScomponent jars/RojeruSan.parte1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

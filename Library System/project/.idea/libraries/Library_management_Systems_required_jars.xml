@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Library management Systems required jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library management Systems required jars/Library management Systems required jars/RSCalendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library management Systems required jars/Library management Systems required jars/RSTableMetro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library management Systems required jars/Library management Systems required jars/RojeruSan.parte1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library management Systems required jars/Library management Systems required jars/RSFoto_v1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

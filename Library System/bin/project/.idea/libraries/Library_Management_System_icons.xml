@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Library Management System icons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library Management System icons/adminIcons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Library Management System icons/AddNewBookIcons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Library Management System icons/icons.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
